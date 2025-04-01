@@ -27,9 +27,13 @@ CSS (para o botão):	Estilização do botão de reinício
 📌 Conceitos em Prática
 
 ✔ Programação Orientada a Objetos (POO) → Classes Bola, Plataforma, Bloco
+#
 ✔ Física simples → Colisões, velocidade, trajetória da bola
+#
 ✔ Manipulação de DOM → Botão de reinício interativo
+#
 ✔ Gerenciamento de Estado → gameOver, vitoria, tentativas
+#
 ✔ Responsividade → Posicionamento dinâmico do botão
 
 ##
@@ -52,8 +56,7 @@ Você tem 3 vidas.
 
 🎥 Vídeo Demonstrativo
 
-//video aqui
-
+https://github.com/user-attachments/assets/df38db19-d92f-4fc5-a558-083dec3d12ea
 
 ##
 
