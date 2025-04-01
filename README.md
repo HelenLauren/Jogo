@@ -2,25 +2,24 @@
 
 Um jogo Breakout/Block Breaker desenvolvido em p5.js, onde o jogador controla uma plataforma para rebater uma bola e destruir blocos. O projeto inclui:
 
-Física de colisão (bola, plataforma e blocos)
+- Física de colisão (bola, plataforma e blocos)
 
-Sistema de vidas
+- Sistema de vidas
 
-Temporizador
+- Temporizador
 
-Telas de Game Over e Vitória
+- Telas de Game Over e Vitória
 
-Botão de reinício
+- Botão de reinício
 
 ##
 
 🛠 Tecnologias e Conceitos Utilizados
 
-Tecnologia:	Aplicação
-p5.js:	Biblioteca JavaScript para criação de gráficos e animações
-JavaScript (ES6+):	Lógica do jogo, classes, manipulação de arrays
-HTML5 Canvas:	Renderização dos elementos gráficos
-CSS (para o botão):	Estilização do botão de reinício
+- p5.js:	Biblioteca JavaScript para criação de gráficos e animações
+- JavaScript (ES6+):	Lógica do jogo, classes, manipulação de arrays
+- HTML5 Canvas:	Renderização dos elementos gráficos
+- CSS (para o botão):	Estilização do botão de reinício
 
 ##
 
@@ -46,9 +45,9 @@ Controles:
 
 Objetivo:
 
-Destrua todos os blocos sem deixar a bola cair.
+- Destrua todos os blocos sem deixar a bola cair.
 
-Você tem 3 vidas.
+- Você tem 3 vidas.
 
 ##
 
@@ -70,29 +69,32 @@ Servidor local (opcional, pode rodar direto no arquivo HTML)
 Passos:
 
 # Clone o repositório
-git clone https://github.com/HelenLauren/breakout-p5js.git
+git clone https://github.com/HelenLauren/breakout-p5js.git 
+#
 cd breakout-p5js
+#
 Abra index.html no navegador.
-
+#
 (Ou use extensões como Live Server no VSCode para rodar localmente.)
 
 📌 Melhorias Futuras
-Power-ups (multi-bolas, plataforma maior, etc.)
-
-Sistema de pontuação
-
-Níveis progressivos
-
-Efeitos sonoros
+#
+- Power-ups (multi-bolas, plataforma maior, etc.)
+#
+- Sistema de pontuação
+#
+- Níveis progressivos
+#
+- Efeitos sonoros
 
 📄 Licença
 MIT License © [Helen Lauren]
 
 💡 Créditos
-Feito com p5.js
+- Feito com p5.js
 
-Inspirado no clássico Arkanoid
+- Inspirado no clássico Arkanoid
 
-LinkedIn : https://www.linkedin.com/in/helen-lauren-bonato-a23b1924b/
+- LinkedIn : https://www.linkedin.com/in/helen-lauren-bonato-a23b1924b/
 
 ✨ Divirta-se! ✨
